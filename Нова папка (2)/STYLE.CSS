@@ -1,0 +1,64 @@
+.li1{
+    color: #212121;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: uppercase;
+text-decoration: none;
+}
+
+
+.p1{
+color: #757575;
+font-family: Roboto;
+font-style: normal;
+font-weight: 400px;
+}
+
+.ul1{
+    display: flex;
+}
+
+.h1{
+display:block;
+text-align: center;
+font-family: Roboto;
+}
+
+.ul2{
+display:flex;
+gap: 30px;
+justify-content: center;
+padding: 50px;;
+}
+
+.h2{
+text-align: center;
+font-family: Roboto;
+font-weight: 700px;
+}
+.ft1{
+    width: 270px;
+    height: 260px;
+
+}
+.ul3{
+    display: flex;
+    justify-content: center;
+gap: 30px;}
+
+.hh3{
+text-align: center;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.p1{
+text-align: center;
+font-family: Roboto;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
